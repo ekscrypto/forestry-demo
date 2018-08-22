@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: Sample Demo Site by Forestry.io
+short_title: Forestry Demo
+description: Sample Demo Site for Forestry.io
 baseurl:
 permalink: "/:path/"
 defaults:
